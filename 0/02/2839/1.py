@@ -1,0 +1,1 @@
+n=int(input())-1;print(-(n in(3,6))or n//5+1+n%5%2)

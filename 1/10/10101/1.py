@@ -1,0 +1,1 @@
+a=[int(input())for _ in'   '];print(['Error','Equilateral','Isosceles','Scalene'][180==sum(a)and len(set(a))])
