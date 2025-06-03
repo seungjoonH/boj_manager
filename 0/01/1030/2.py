@@ -1,0 +1,2 @@
+s,n,k,a,b,c,d=map(int,input().split());r=range
+for i in r(a,b+1):print(*[int(any((l,h)for t in r(s,0,-1)for l,h in[((n-k)*n**t/2/n,(n+k)*n**t/2/n)]if(l<=i%n**t<h)&(l<=j%n**t<h)))for j in r(c,d+1)],sep='')
