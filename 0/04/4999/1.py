@@ -1,0 +1,1 @@
+print(len(input())<len(input())and"no"or"go")
