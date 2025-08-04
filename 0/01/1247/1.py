@@ -1,0 +1,1 @@
+for _ in' '*3:s=sum(int(input())for _ in' '*int(input()));print(s and'+-'[s<0])
