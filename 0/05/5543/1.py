@@ -1,0 +1,1 @@
+i=input;exec(f'print(min({i()},{i()},{i()})+min({i()},{i()})-50)')
