@@ -1,0 +1,1 @@
+exec('print(max(%s*%s-%s,0))'%(*input().split(),))
