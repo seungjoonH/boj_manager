@@ -1,0 +1,1 @@
+while int(n:=input()):print(1+len(n)+sum(map(int,['423'[min(int(i),2)]for i in n])))
