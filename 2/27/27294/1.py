@@ -1,0 +1,1 @@
+t,s=input().split();print(eval(f'40*[7,8][11<{t}<17 and 1-{s}]'))
