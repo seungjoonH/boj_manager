@@ -1,0 +1,1 @@
+_,i=open(0);print(*[a+'DORO'for a in i.split()])
