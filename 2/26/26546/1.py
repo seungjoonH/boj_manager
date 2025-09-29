@@ -1,0 +1,1 @@
+for i in range(int(input())): t, s, e = input().split(); print(t[:int(s)] + t[int(e):])
