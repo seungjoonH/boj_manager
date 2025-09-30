@@ -1,0 +1,1 @@
+for i in open(0):print('EABCD'[i.count('0')])
