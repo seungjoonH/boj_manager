@@ -1,0 +1,1 @@
+l,s=map(int,open(0));d=s-l;print(["You are speeding and your fine is $%d0."%[10,27,50][2*(d>30)or d>20],"Congratulations, you are within the speed limit!"][d<1])
