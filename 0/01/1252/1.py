@@ -1,0 +1,1 @@
+print(bin(eval('0b'+'+0b'.join(input().split())))[2:])
