@@ -1,0 +1,1 @@
+print(str((i:=input())==i[::-1]).lower())
