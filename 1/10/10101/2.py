@@ -1,0 +1,1 @@
+print(['Error','Equilateral','Isosceles','Scalene'][180==sum(a:=[*map(int,open(0))])and len(set(a))])
