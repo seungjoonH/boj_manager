@@ -1,0 +1,1 @@
+print(["none","draw","hacker"][~-(max(l:=[*map(int,input().split())])<101)or 99<sum(l)])
