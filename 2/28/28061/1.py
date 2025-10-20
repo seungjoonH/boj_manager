@@ -1,0 +1,1 @@
+print(max(map(sum,zip(range(-int(input()),0),map(int,input().split())))))
