@@ -1,0 +1,1 @@
+s=input();print(("흥칫뿡!! <(￣ ﹌ ￣)>","◝(⑅•ᴗ•⑅)◜..°♡ 뀌요미!!")[len({ord(a)-ord(b)for a,b in zip(s,s[1:])})<2])
