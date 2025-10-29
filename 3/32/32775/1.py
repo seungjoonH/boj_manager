@@ -1,0 +1,1 @@
+s,f=map(int,open(0));print(['high speed rail','flight'][f<s])
