@@ -1,0 +1,1 @@
+_,*a=map(str.split,open(0));print(len([0for x,y in zip(*a)if int(x)<=int(y)]))
