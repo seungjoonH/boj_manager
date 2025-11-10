@@ -1,0 +1,1 @@
+for t in[*map(str.split,open(0))][1:]:r,c=map(int,t);print(-(r<12or c<4)or 11*c+4)
