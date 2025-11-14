@@ -1,0 +1,1 @@
+print('112640'[min(int(input()),5)])
