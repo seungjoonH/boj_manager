@@ -1,0 +1,1 @@
+print('Naver',['D2','Whale'][input()in'nN'])
