@@ -1,0 +1,1 @@
+for i in[*map(str.split,open(0))][:-1]:print(['Draw','Cheryl','Tania'][(lambda x:(x>0)-(x<0))(sum(map(lambda x:x=='A'or int(x)%2*2-1,i[:-1])))])
