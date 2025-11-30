@@ -1,0 +1,1 @@
+n,*a=map(str.strip,open(0));print(eval('+'.join(['1-'+n,*a])))

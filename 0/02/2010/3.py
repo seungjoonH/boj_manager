@@ -1,0 +1,1 @@
+n,*a=map(int,open(0));print(sum(a)+1-n)
