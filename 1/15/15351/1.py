@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print([s:=sum(map(ord,i))+i.count(' ')*32+54-len(i)*64,'PERFECT LIFE'][s==100])
