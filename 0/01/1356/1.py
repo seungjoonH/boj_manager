@@ -1,0 +1,1 @@
+s,p=input(),'*'.join;print(['NO','YES'][any(eval(p(s[:i])+'=='+p(s[i:]))for i in range(1,len(s)))])
