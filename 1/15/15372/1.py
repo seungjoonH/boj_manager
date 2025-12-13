@@ -1,0 +1,1 @@
+_,*a=map(int,open(0));print(*[i*i for i in a],sep='\n')
