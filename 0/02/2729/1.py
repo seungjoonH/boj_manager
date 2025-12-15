@@ -1,0 +1,1 @@
+print(*[bin(int(a,2)+int(b,2))[2:]for a,b in[*map(str.split,open(0))][1:]],sep='\n')
