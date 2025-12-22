@@ -1,0 +1,1 @@
+while(i:=input().split())!=['#']:print(*i,''.join(chr((ord(c)-97+ord(b)-ord(a))%26+97)for a,b,c in zip(*i)))
