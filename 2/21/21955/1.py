@@ -1,0 +1,1 @@
+i=input();l=len(i)//2;print(i[:l],i[l:])
