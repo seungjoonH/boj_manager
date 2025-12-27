@@ -1,0 +1,1 @@
+print(*['*'*-~j for i in map(int,open(0))for j in range(i)],sep='\n')
