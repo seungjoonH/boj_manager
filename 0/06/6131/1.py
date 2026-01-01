@@ -1,0 +1,1 @@
+print([j * j - i * i for i in range(1, 501) for j in range(i + 1, 501)].count(int(input())))
