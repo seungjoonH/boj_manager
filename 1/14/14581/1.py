@@ -1,0 +1,1 @@
+f=':fan:';print(f*3,':'.join([f,input(),f]),f*3,sep='\n')
