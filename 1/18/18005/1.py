@@ -1,0 +1,1 @@
+print(2-(n:=int(input()))%2-n//2%2)
